@@ -1,5 +1,5 @@
 streamlit
 components
 pandas
-base64
+pybase64
 time
