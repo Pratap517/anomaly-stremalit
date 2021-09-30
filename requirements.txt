@@ -2,4 +2,4 @@ streamlit
 components
 pandas
 pybase64
-time
+python-time
