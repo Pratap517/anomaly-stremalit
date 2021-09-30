@@ -3,3 +3,4 @@ components
 pandas
 pybase64
 python-time
+scikit-learn
